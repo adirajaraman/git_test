@@ -1,1 +1,1 @@
-This is Adi's first git project!
+This is Adi's first txt project uploaded to Github!
